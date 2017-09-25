@@ -7,7 +7,6 @@ import networkx as nx
 def usage():
 	" Help legenda for input parameters"
 	print '-h or --help gives you the parameters explanation'
-	print '-g sets the graph_type: 0=Reg, 1=ER, 2=WS, 3=Power-Law tree, 4=Reg_ER; 5=balanced_tree(k,n)'
 	print '-d sets graph connected component: 0=Keep the whole graph; 1=Keep only the max connected component'
 	print '-n sets graph size'
 	print '-k sets average degree'
