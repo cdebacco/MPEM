@@ -1,5 +1,5 @@
 # MPEM
-Matrix Product State approximation for dynamical processes on networks.
+Matrix Product Equation of Motion: Matrix Product State approximation for dynamical processes on networks.
 
 If you use this code, please cite:
 
