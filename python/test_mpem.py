@@ -7,7 +7,7 @@ Simulates the dynamics by using the MPS equations of motion
 
 INPUT : see usage()
 
-OUTPUT : prints on file the evolution over time of magnetization, energy, overlap and correlation
+OUTPUT : prints on file the evolution over time of magnetization,overlap and correlation
 
 '''
 
